@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuvaraj20102001
-- 👀 I’m interested in DATA SCIENCE,DATA ANALYTICS,ANDROID DEVELOPMENT ,WEB DEVELOPMENT
+- 👀 So far familiar with interested in DATA SCIENCE,DATA ANALYTICS,ANDROID DEVELOPMENT , COMPUTER VISION
 - 🌱 I’m currently learning ANDROID DEVELOPMENT,DATA SCIENCE
 - 📫 How to reach me-yuvarajmuruganprofessional@gmail.com
 - linked in- linkedin.com/in/yuvaraj-murugan-895b4b169
